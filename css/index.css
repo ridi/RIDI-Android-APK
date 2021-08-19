@@ -15,3 +15,18 @@ body {
     height: 18px;
     vertical-align: middle;
 }
+
+#container {
+    margin: 1em auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+.item {
+    display: block;
+    margin: 0.5em auto;
+    color: rgb(31, 140, 230);
+    font-size: 1em;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(214, 222, 235);
+}

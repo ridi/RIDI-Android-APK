@@ -1,3 +1,8 @@
+@font-face {
+    font-family: ridi-roboto;
+    src: url(https://static.ridicdn.net/books/dist/fonts/ridi-roboto-regular-webfont.woff2);
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -26,6 +31,7 @@ body {
     display: block;
     margin: 0.5em auto;
     color: rgb(31, 140, 230);
+    font-family: ridi-roboto, Apple SD Gothic Neo, "나눔고딕", Nanum Gothic, "돋움", Dotum, Helvetica Neue, arial, sans-serif;
     font-size: 1em;
     cursor: pointer;
     border-bottom: 1px solid rgb(214, 222, 235);

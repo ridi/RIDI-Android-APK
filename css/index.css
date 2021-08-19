@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    border-bottom: 1px solid rgb(214, 222, 235);
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.logo {
+    fill: rgb(31, 140, 230);
+    height: 18px;
+    vertical-align: middle;
+}

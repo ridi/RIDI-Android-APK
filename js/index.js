@@ -2,7 +2,7 @@
 
 function initialize() {
   var url = 'https://viewer-ota.ridicdn.net/android';
-  var current = '21.10.3';
+  var current = '22.1.1';
   var available = [
     'Release Notes.txt',
     'Ridibooks-20.1.2-E-Ink-noTTS.apk',

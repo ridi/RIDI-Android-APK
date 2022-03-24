@@ -2,17 +2,17 @@
 
 function initialize() {
   var url = 'https://viewer-ota.ridicdn.net/android';
-  var current = '22.2.2';
+  var current = '22.3.1';
   var available = [
     'Release Notes.txt',
-    'Ridibooks-20.1.2-E-Ink-noTTS.apk',
-    'Ridibooks-20.1.2-E-Ink.apk',
-    'Ridibooks-20.1.2-noTTS.apk',
-    'Ridibooks-20.1.2-PlayStore.apk',
-    'Ridibooks-20.5.1-E-Ink-noTTS.apk',
-    'Ridibooks-20.5.1-E-Ink.apk',
-    'Ridibooks-' + current + '-ARMv7aOnly.apk',
-    'Ridibooks-' + current + '-PlayStore.apk',
+    'RIDI-20.1.2-E-Ink-noTTS.apk',
+    'RIDI-20.1.2-E-Ink.apk',
+    'RIDI-20.1.2-noTTS.apk',
+    'RIDI-20.1.2-PlayStore.apk',
+    'RIDI-20.5.1-E-Ink-noTTS.apk',
+    'RIDI-20.5.1-E-Ink.apk',
+    'RIDI-' + current + '-ARMv7aOnly.apk',
+    'RIDI-' + current + '-PlayStore.apk',
   ];
 
   var container = document.getElementById('container');

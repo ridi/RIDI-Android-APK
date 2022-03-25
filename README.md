@@ -1,1 +1,1 @@
-# Ridibooks-Android-APK
+# RIDI-Android-APK

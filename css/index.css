@@ -16,7 +16,7 @@ body {
 }
 
 .logo {
-    fill: rgb(31, 140, 230);
+    fill: rgb(30, 158, 255);
     height: 18px;
     vertical-align: middle;
 }
@@ -30,7 +30,7 @@ body {
 .item {
     display: block;
     margin: 0.5em auto;
-    color: rgb(31, 140, 230);
+    color: rgb(30, 158, 255);
     font-family: ridi-roboto, Apple SD Gothic Neo, "나눔고딕", Nanum Gothic, "돋움", Dotum, Helvetica Neue, arial, sans-serif;
     font-size: 1em;
     cursor: pointer;

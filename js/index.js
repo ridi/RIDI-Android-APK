@@ -2,7 +2,7 @@
 
 function initialize() {
   var url = 'https://viewer-ota.ridicdn.net/android';
-  var current = '22.5.1';
+  var current = '22.5.2';
   var available = [
     'Release Notes.txt',
     'RIDI-20.1.2-E-Ink-noTTS.apk',

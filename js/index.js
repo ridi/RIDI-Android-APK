@@ -2,7 +2,7 @@
 
 function initialize() {
   var url = 'https://viewer-ota.ridicdn.net/android';
-  var current = '22.11.1';
+  var current = '22.12.1';
   var available = [
     'Release Notes.txt',
     'RIDI-20.1.2-E-Ink-noTTS.apk',
@@ -11,7 +11,9 @@ function initialize() {
     'RIDI-20.1.2-PlayStore.apk',
     'RIDI-20.5.1-E-Ink-noTTS.apk',
     'RIDI-20.5.1-E-Ink.apk',
-    'RIDI-' + current + '-ARMv7aOnly.apk',
+    'RIDI-' + current + '-OneStore-ARMv7aOnly.apk',
+    'RIDI-' + current + '-OneStore.apk',
+    'RIDI-' + current + '-PlayStore-ARMv7aOnly.apk',
     'RIDI-' + current + '-PlayStore.apk',
   ];
 

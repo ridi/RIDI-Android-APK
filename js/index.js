@@ -5,12 +5,8 @@ function initialize() {
   var current = '22.12.2';
   var available = [
     'Release Notes.txt',
-    'RIDI-20.1.2-E-Ink-noTTS.apk',
-    'RIDI-20.1.2-E-Ink.apk',
-    'RIDI-20.1.2-noTTS.apk',
-    'RIDI-20.1.2-PlayStore.apk',
-    'RIDI-20.5.1-E-Ink-noTTS.apk',
-    'RIDI-20.5.1-E-Ink.apk',
+    'RIDI-21.1.1-PlayStore-ARMv7aOnly.apk',
+    'RIDI-21.1.1-PlayStore.apk',
     'RIDI-' + current + '-OneStore-ARMv7aOnly.apk',
     'RIDI-' + current + '-OneStore.apk',
     'RIDI-' + current + '-PlayStore-ARMv7aOnly.apk',

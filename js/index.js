@@ -5,8 +5,6 @@ function initialize() {
   var current = '22.12.2';
   var available = [
     'Release Notes.txt',
-    'RIDI-21.1.1-PlayStore-ARMv7aOnly.apk',
-    'RIDI-21.1.1-PlayStore.apk',
     'RIDI-' + current + '-OneStore-ARMv7aOnly.apk',
     'RIDI-' + current + '-OneStore.apk',
     'RIDI-' + current + '-PlayStore-ARMv7aOnly.apk',

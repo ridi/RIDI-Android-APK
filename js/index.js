@@ -2,12 +2,14 @@
 
 function initialize() {
   var url = 'https://viewer-ota.ridicdn.net/android';
-  var current = '25.4.3';
+  var current = '25.5.1';
   var available = [
     'Release Notes.txt',
     'RIDI-' + current + '-OneStore-ARMv7aOnly.apk',
+    'RIDI-' + current + '-OneStore-WithAIVoice.apk',
     'RIDI-' + current + '-OneStore.apk',
     'RIDI-' + current + '-PlayStore-ARMv7aOnly.apk',
+    'RIDI-' + current + '-PlayStore-WithAIVoice.apk',
     'RIDI-' + current + '-PlayStore.apk',
   ];
 

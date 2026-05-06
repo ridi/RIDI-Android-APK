@@ -2,7 +2,7 @@
 
 function initialize() {
   var url = 'https://viewer-ota.ridicdn.net/android';
-  var current = '26.4.1';
+  var current = '26.4.2';
   var available = [
     'Release Notes.txt',
     'RIDI-' + current + '-OneStore-ARMv7aOnly.apk',
